@@ -1,6 +1,8 @@
 # Social-Media-Sentiment-Analysis-Plugin
 Cloud system that enables the power of Oracle Cloud Infrastructure to fetch data from Twitter and visualize the results on OAC instance.
 
+Check out this video to understand more about the project : https://www.youtube.com/watch?v=tS-yMUTMIkc
+
 ![Screenshot](diagram.png)
 
 ## IMPORTNAT THINGS TO KEEP IN MIND
